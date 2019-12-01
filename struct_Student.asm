@@ -1,8 +1,4 @@
 Include Irvine32.Inc
-
-
-
-
 Student Struct 
 
 	names byte 50 DUP("0")
